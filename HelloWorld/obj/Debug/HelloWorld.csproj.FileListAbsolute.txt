@@ -1,0 +1,1 @@
+/Users/fadouaamrou/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
